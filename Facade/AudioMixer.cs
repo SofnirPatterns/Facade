@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Facade
 {
-    class AudioMixer
+    public class AudioMixer
     {
+        public string IncreaseAudioQuality(string file)
+        {
+            return $"{file} with good audio quality";
+        }
     }
 }

@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Facade
 {
-    class OggConverter
+    public class OggConverter
     {
+        public string Convert(string file)
+        {
+            return $"{file} as Ogg format";
+        }
     }
 }

@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Facade
 {
-    class MPEG4Converter
+    public class MPEG4Converter
     {
+        public string Convert(string file)
+        {
+            return $"{file} as MPEG4 format";
+        }
     }
 }

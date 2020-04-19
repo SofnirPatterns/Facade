@@ -13,10 +13,9 @@ namespace Facade
             new Video() { Id = 2, Title = "Denver kumpel sprzed 6 tys. lat", URL = "https://vimeo.com/84114639" }
         };
 
-        public Video GetVideo(string title)
+        public Video GetVideo(long id)
         {
-            return Videos.Where(q => String.Equals(q.Title, title, StringComparison.CurrentCultureIgnoreCase))?.FirstOrDefault()
-                ?? new Video() { Id = 0, Title = "Not found", URL = String.Empty };
+            return Videos.Where(q => q.Id == id)?.FirstOrDefault() ?? null;
         }
     }
 }

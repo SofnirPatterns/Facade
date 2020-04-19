@@ -1,0 +1,11 @@
+D:\Dev\Patterns\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.deps.json
+D:\Dev\Patterns\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.runtimeconfig.json
+D:\Dev\Patterns\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.runtimeconfig.dev.json
+D:\Dev\Patterns\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.dll
+D:\Dev\Patterns\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.pdb
+D:\Dev\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.csprojAssemblyReference.cache
+D:\Dev\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.csproj.CoreCompileInputs.cache
+D:\Dev\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.AssemblyInfoInputs.cache
+D:\Dev\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.AssemblyInfo.cs
+D:\Dev\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.dll
+D:\Dev\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.pdb

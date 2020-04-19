@@ -6,7 +6,10 @@ namespace Facade
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            VideoDownloader videoDownloader = new VideoDownloader();
+            string file = videoDownloader.Download(3, Enums.VideoService.YouTube, Enums.FileType.Ogg);
+            Console.WriteLine(file);
+            Console.ReadKey();
         }
     }
 }
