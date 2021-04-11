@@ -9,3 +9,15 @@ D:\Dev\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.AssemblyInfoInputs.
 D:\Dev\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.AssemblyInfo.cs
 D:\Dev\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.dll
 D:\Dev\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.pdb
+C:\Users\macie\Desktop\Patterns\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.deps.json
+C:\Users\macie\Desktop\Patterns\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.runtimeconfig.json
+C:\Users\macie\Desktop\Patterns\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.runtimeconfig.dev.json
+C:\Users\macie\Desktop\Patterns\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.dll
+C:\Users\macie\Desktop\Patterns\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.pdb
+C:\Users\macie\Desktop\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.csprojAssemblyReference.cache
+C:\Users\macie\Desktop\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.AssemblyInfoInputs.cache
+C:\Users\macie\Desktop\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.AssemblyInfo.cs
+C:\Users\macie\Desktop\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.csproj.CoreCompileInputs.cache
+C:\Users\macie\Desktop\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.dll
+C:\Users\macie\Desktop\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.pdb
+C:\Users\macie\Desktop\Patterns\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.genruntimeconfig.cache

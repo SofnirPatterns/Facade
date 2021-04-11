@@ -688,37 +688,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mgwizdz\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\macie\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Patterns\\Facade\\Facade\\Facade.csproj",
+      "projectUniqueName": "C:\\Users\\macie\\Desktop\\Patterns\\Facade\\Facade\\Facade.csproj",
       "projectName": "Facade",
-      "projectPath": "D:\\Dev\\Patterns\\Facade\\Facade\\Facade.csproj",
-      "packagesPath": "C:\\Users\\mgwizdz\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Patterns\\Facade\\Facade\\obj\\",
+      "projectPath": "C:\\Users\\macie\\Desktop\\Patterns\\Facade\\Facade\\Facade.csproj",
+      "packagesPath": "C:\\Users\\macie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\macie\\Desktop\\Patterns\\Facade\\Facade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mgwizdz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+        "C:\\Users\\macie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\imrtfs\\NuGetRepository\\General": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -730,18 +729,26 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
